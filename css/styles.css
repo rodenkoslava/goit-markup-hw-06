@@ -199,6 +199,19 @@ img {
     margin-bottom: 16px;
 }
 
+.form-footer {
+    display: flex;
+}
+
+.form-item {
+    margin-bottom: 16px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #FFFFFF;
+}
+
 .hero {
     background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/banner-bg.jpg);
     background-position: center;
