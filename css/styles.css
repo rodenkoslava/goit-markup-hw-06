@@ -228,6 +228,11 @@ img {
     padding-left: 16px;
     filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.15));
     border-radius: 4px;
+    color: #FFFFFF;
+}
+
+.form-mail::placeholder {
+    color: #FFFFFF;
 }
 
 /* ============END-FORMA============ */
