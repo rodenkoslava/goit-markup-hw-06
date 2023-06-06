@@ -236,7 +236,7 @@ img {
 }
 
 .form-button {
-    max-width: 165px;
+    min-width: 165px;
 }
 
 /* ============END-FORMA============ */
