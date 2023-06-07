@@ -299,6 +299,16 @@ img {
     padding: 72px 24px 24px 24px;
 }
 
+.modal-item {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+    margin-bottom: 16px;
+}
+
 .close-button {
     position: absolute;
     right: 24px;
