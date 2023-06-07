@@ -309,6 +309,10 @@ img {
     margin-bottom: 16px;
 }
 
+.modal-form {
+    margin-bottom: 8px;
+}
+
 .close-button {
     position: absolute;
     right: 24px;
