@@ -326,6 +326,14 @@ img {
     position: relative;
 }
 
+/* .modal-input:focus-within input {
+    border-color: #4D5AE5;
+}
+
+.modal-input:focus-within svg {
+    fill: #4D5AE5;
+} */
+
 .modal-input-item {
     width: 100%;
     height: 40px;
@@ -350,6 +358,10 @@ img {
 }
 
 .modal-input-icon:focus {
+    fill: #4D5AE5;
+}
+
+.modal-input-item:focus+.modal-input-icon {
     fill: #4D5AE5;
 }
 
