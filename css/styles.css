@@ -414,6 +414,12 @@ img {
     color: #8e8f99;
 }
 
+.modal-checkbox-item:checked {
+    background-color: #404bbf;
+    border: none;
+    fill: #F4F4FD;
+}
+
 .close-button {
     position: absolute;
     right: 24px;
