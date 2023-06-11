@@ -407,6 +407,12 @@ img {
     fill: transparent;
 }
 
+.modal-checkbox-icon {
+    background-color: var(--color-dark-blue);
+    border: none;
+    fill: var(--color-white);
+}
+
 .modal-checkbox-label {
     font-size: 12px;
     line-height: 1.17;
