@@ -365,6 +365,10 @@ img {
     fill: #4D5AE5;
 }
 
+.modal-comment {
+    margin-bottom: 16px;
+}
+
 .close-button {
     position: absolute;
     right: 24px;
