@@ -393,6 +393,13 @@ img {
     margin-bottom: 24px;
 }
 
+.modal-checkbox-input {
+    font-size: 12px;
+    line-height: 1.17;
+    letter-spacing: 0.04em;
+    color: #8e8f99;
+}
+
 .close-button {
     position: absolute;
     right: 24px;
