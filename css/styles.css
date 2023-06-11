@@ -414,7 +414,7 @@ img {
     color: #8e8f99;
 }
 
-.modal-checkbox-item:checked {
+.modal-checkbox-item:checked+.modal-checkbox-input {
     background-color: #404bbf;
     border: none;
     fill: #F4F4FD;
