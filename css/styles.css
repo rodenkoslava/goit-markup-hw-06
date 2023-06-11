@@ -389,6 +389,10 @@ img {
     border-color: #4D5AE5;
 }
 
+.modal-checkbox {
+    margin-bottom: 24px;
+}
+
 .close-button {
     position: absolute;
     right: 24px;
