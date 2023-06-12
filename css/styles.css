@@ -389,6 +389,7 @@ img {
     border-color: #4D5AE5;
 }
 
+
 .modal-checkbox {
     margin-bottom: 24px;
 }
@@ -404,13 +405,8 @@ img {
     display: inline-flex;
     align-items: center;
     justify-content: center;
+    margin-right: 8px;
     fill: transparent;
-}
-
-.modal-checkbox-icon {
-    background-color: var(--color-dark-blue);
-    border: none;
-    fill: var(--color-white);
 }
 
 .modal-checkbox-label {
@@ -420,8 +416,10 @@ img {
     color: #8e8f99;
 }
 
-.modal-checkbox-input:checked+.modal-checkbox-item {
+.modal-checkbox-input:checked+.modal-checkbox-label span {
     background-color: #404bbf;
+    border: none;
+    fill: #F4F4FD;
 }
 
 .close-button {
