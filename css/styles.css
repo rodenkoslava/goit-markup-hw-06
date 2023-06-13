@@ -200,6 +200,11 @@ img {
 }
 
 /* =============Forma=============== */
+
+.form {
+    margin-left: 80px;
+}
+
 .form-footer {
     display: flex;
 }
